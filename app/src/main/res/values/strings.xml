@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidGPS</string>
+
+    <string name="button_pos_actual">Posición Actual</string>
+    <string name="button_mostrar_mapa">Mostrar en mapa</string>
+
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="title_activity_map">Map</string>
+
+</resources>
